@@ -1,0 +1,14 @@
+.container {
+    height: 300px;
+}
+.display-3 {
+    color: aliceblue;
+    background-color: blue;
+    padding: 15px;
+}
+p {
+    color: white;
+}
+textarea {
+    margin-top: 12px;
+}
